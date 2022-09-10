@@ -9,7 +9,7 @@ Now if you are in twitch chat click icon of this extension and click start butto
 ![image](https://user-images.githubusercontent.com/98473383/189494303-8499fcb0-d436-4a1a-be85-de246d80f645.png)
 
 # How to add your words?
-Just edit your script.js file by adding words to object "listOfWords", example ` "first_word": "
+Just edit your script.js file by adding words to object "listOfWords", for example: ` "first_word": "
 second_word", ` everyone in chat without this extension will see fist word, people with addition will see second word.
 
 
