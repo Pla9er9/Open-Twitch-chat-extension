@@ -1,0 +1,20 @@
+{
+    "name": "Open Twitch chat",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "Unlock forbiden twitch words!",
+    "background": {
+        "scripts": [
+            "script.js"
+        ],
+        "persistent": true
+    },
+    "browser_action": {
+        "default_title": "Open Twitch chat",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "*://*.twitch.tv/*",
+        "tabs"
+    ]
+}
