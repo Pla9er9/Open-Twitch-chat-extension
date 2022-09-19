@@ -1,9 +1,8 @@
 const filter = (element) => {
     
     listOfWords = {
-        "i-word":"incel",
-        "v-word": "virgin",
-        "s-word": "simp"
+        //For example: 
+        "b-word":"banned-Word",
     };
 
     for (const property in listOfWords) {
