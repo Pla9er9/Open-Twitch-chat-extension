@@ -14,4 +14,3 @@ second_word", ` everyone in chat without this extension will see fist word, peop
 
 
 ![image](https://user-images.githubusercontent.com/98473383/191102120-0dfb6e7e-f8a2-4e67-b7b7-4967bb986dfa.png)
-
