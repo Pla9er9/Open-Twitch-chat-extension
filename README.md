@@ -5,8 +5,7 @@ A Web Browser extension that unlocks banned words in twitch chat.
 First Download it. Then go to extensions settings turn on dev mode and load extension.
 Now if you are in twitch chat click icon of this extension and click start button. If you want to turn it off just refresh page.
 
-
-![image](https://user-images.githubusercontent.com/98473383/195719674-978105e0-d6c8-4cf8-8426-1e8f88998e53.png)
+![screenshot](https://github.com/Pla9er9/Open-Twitch-chat-extension/assets/98473383/4641f94b-8e8b-48b3-880e-ec20bff83611)
 
 # How to add your words?
 Just edit your script.js file by adding words to object "listOfWords", for example: ` "first_word": "
